@@ -1,0 +1,25 @@
+body {
+    background-color: #bfdef7;
+  }
+  
+  .center {
+    margin: auto;
+    width: 440px;
+    background-color: white;
+    border: 3px solid black;
+    padding: 10px;
+  }
+  
+  embed {
+      border: 1px solid black;
+    }
+  
+  footer {
+      margin: auto;
+      width: 440px;
+      padding: 10px;
+    }
+  
+  a {
+    color: black;
+  }
